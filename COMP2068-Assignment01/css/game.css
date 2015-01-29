@@ -1,5 +1,5 @@
 ﻿body {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'PT Sans','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     min-height: 740px;
 
     background: rgb(215, 215, 215);
@@ -74,3 +74,8 @@
     white-space: nowrap;
 }
 
+div.menu {
+    border-top: 2px solid black;
+    padding-top: 25px;
+    text-align: center;
+}
