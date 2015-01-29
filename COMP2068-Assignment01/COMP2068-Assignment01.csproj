@@ -67,6 +67,7 @@
   <ItemGroup>
     <Content Include="Combustoboy.html" />
     <Content Include="css\game.css" />
+    <Content Include="css\reset.css" />
     <Content Include="Scripts\game.js" />
     <Content Include="Scripts\lib\impress.js" />
     <Content Include="Web.config" />
